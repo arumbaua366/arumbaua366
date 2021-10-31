@@ -12,6 +12,7 @@ I'm a Developer based in the San Francisco Bay Area. I am a recent graduate of t
 
 ### Languages and Tools
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
+<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXBXwkDXMquzmgJZAHR1ZN2QXhjqM1OztPg&usqp=CAU"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
