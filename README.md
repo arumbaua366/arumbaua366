@@ -4,7 +4,7 @@ I'm a Developer based in the San Francisco Bay Area. I am a recent graduate of t
 
 - 🔭 I’m currently working on going to my first hackathon.
 - 🌱 I’m currently learning data structures and algorithms.
-- 👯 I’m looking to collaborate on new projects, contributing to open source projects, and discussing code or new technologies in general.
+- 👯 I’m looking to collaborate on new projects, contribute to open source projects, and discuss code or new technologies in general.
 - 💬 Ask me about my favorite travel or EDC (every day carry) gear.
 - 📫 How to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=arumbaua366@gmail.com&su=SUBJECT&body=BODY) | [LinkedIn](https://www.linkedin.com/in/andrearumbaua/) | [Portfolio] | [Twitter](https://twitter.com/andyk366) | [Medium]
 - 😄 Pronouns: She/Her
