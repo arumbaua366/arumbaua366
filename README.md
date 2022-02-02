@@ -6,7 +6,7 @@ I'm a Developer based in the San Francisco Bay Area. I am a recent graduate of t
 - 🌱 I’m currently learning data structures and algorithms.
 - 👯 I’m looking to collaborate on new projects, contribute to open source projects, and discuss code or new technologies in general.
 - 💬 Ask me about my favorite travel or EDC (every day carry) gear.
-- 📫 How to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=arumbaua366@gmail.com&su=SUBJECT&body=BODY) | [LinkedIn](https://www.linkedin.com/in/andrearumbaua/) | [Portfolio] | [Twitter](https://twitter.com/andyk366) | [Medium]
+- 📫 How to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=arumbaua366@gmail.com&su=SUBJECT&body=BODY) | [LinkedIn](https://www.linkedin.com/in/andrearumbaua/) | [Portfolio] | [Twitter](https://twitter.com/andebugger)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love writing short fictional stories online.
 
