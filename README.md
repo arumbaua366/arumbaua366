@@ -6,7 +6,7 @@ I'm a Developer based in the Bay Area, California. I am a recent graduate of the
 - 🌱 I’m currently learning data structures and algorithms.
 - 👯 I’m looking to collaborate on new projects, contribute to open source projects, and discuss code or new technologies in general.
 - 💬 Ask me about my favorite travel or EDC (every day carry) gear.
-- 📫 How to reach me: [Email](https://mail.google.com/mail/?view=cm&fs=1&to=arumbaua366@gmail.com&su=SUBJECT&body=BODY) | [LinkedIn](https://www.linkedin.com/in/andrearumbaua/) | [Medium](https://medium.com/@andyrum366) | [Twitter](https://twitter.com/@andeandiandy)
+- 📫 How to reach me: [Portfolio](https://arumbaua366.github.io/react-portfolio/) | [Email](https://mail.google.com/mail/?view=cm&fs=1&to=arumbaua366@gmail.com&su=SUBJECT&body=BODY) | [LinkedIn](https://www.linkedin.com/in/andrearumbaua/) | [Medium](https://medium.com/@andyrum366) | [Twitter](https://twitter.com/@andeandiandy)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love writing short fictional stories online.
 
