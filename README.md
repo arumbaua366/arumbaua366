@@ -20,6 +20,7 @@ I'm a Developer based in the Bay Area, California. I am a recent graduate of the
 <code><img height="40" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/material.png?raw=true"></code>
 <code><img height="40" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/tailwind.png?raw=true"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/25181517/182883980-92ae49c5-09c2-41f2-85ae-6e64221ad45f.png"></code>
+<code><img height="40" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/nodejs.png?raw=true"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
