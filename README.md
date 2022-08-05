@@ -10,7 +10,7 @@ I'm a Developer based in the Bay Area, California. I am a recent graduate of the
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love writing short fictional stories online.
 
-### Languages and Tools
+### Languages, Technologies, and Tools
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXBXwkDXMquzmgJZAHR1ZN2QXhjqM1OztPg&usqp=CAU"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -21,3 +21,5 @@ I'm a Developer based in the Bay Area, California. I am a recent graduate of the
 <code><img height="40" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=arumbaua366&show_icons=true&theme=tokyonight)
