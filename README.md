@@ -26,4 +26,4 @@ I'm a Developer based in the Bay Area, California. I am a recent graduate of the
 <code><img height="40" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"></code>
 
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=arumbaua366&show_icons=true&theme=tokyonight)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=arumbaua366&show_icons=true&theme=tokyonight&include_all_commits=true)
